@@ -178,6 +178,13 @@ body {
    justify-content: center;
     /* background-color: yellow; */
 }
+
+.product_category {
+    text-align: center;
+    text-decoration: overline underline;
+    margin-top: 5px;
+}
+
 .plant_heading{
     width: 400px;
     text-align: center;
